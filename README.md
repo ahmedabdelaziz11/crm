@@ -1,12 +1,12 @@
 # crm
-CRM For Internet Service Provider&nbsp &nbsp;
-HTML, CSS, JavaScript, PHP, MYSQL &nbsp
+CRM For Internet Service Provider &nbsp;
+HTML, CSS, JavaScript, PHP, MYSQL &nbsp;
 &nbsp;
-&nbsp
-CRM For Internet Service Provider Modules&nbsp &nbsp
-ADMIN MODULE&nbsp &nbsp
-CUSTOMER MODULE &nbsp
-Employee MODULE &nbsp
+&nbsp;
+CRM For Internet Service Provider Modules &nbsp;
+ADMIN MODULE &nbsp;
+CUSTOMER MODULE &nbsp;
+Employee MODULE &nbsp;
 
 
 Features of CRM System
