@@ -1,0 +1,88 @@
+h1 {
+    font-family: 'raleway' ,sans-serif;
+    font-weight: 900;
+    font-size: 50px;
+    letter-spacing: -3px;
+    color: #757575;
+}
+
+.content {
+    margin-top: 50px;
+    overflow: hidden;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+    padding: 25px;
+    width: 80%;
+    margin-left: 150px;
+    min-height:200px;
+    overflow: hidden;
+} 
+
+.form { 
+    max-width: 550px;
+    margin: 20px auto;
+    align-content: center;  
+        
+}
+        
+.form input,
+.form textarea { 
+    margin-bottom: 5px;
+}
+
+.form .form-group {
+    margin-bottom: 0;
+    position: relative ;
+}
+
+.form textarea { 
+    height: 180px !important;
+}
+
+.form a {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.form input:not([type='submit']) + i {
+    height: 0;
+    float: left;
+    position: relative;
+    top: -32px;
+    left: 10px;
+    color: #999;
+}
+
+.form .asterisx {
+    float: right;
+    height: 0;
+    font-size: 22px;
+    color:#b90d0d;
+    position: absolute;
+    right: 10px;
+    top: 6px ;
+}
+
+.form input {
+    padding-left: 30px ;
+}
+
+
+.form .send-icon{
+    display: block;
+    position: relative;
+    top: -32px;
+    left: 7px;
+    color: #555;
+    
+}
+
+footer{
+    padding: 20px;
+    text-align: center;
+    margin-top: 50px;
+    font-family: verdana;
+    font-size: 16px;
+}
+
+.clear{width: 100%; height: 0; clear: both}
