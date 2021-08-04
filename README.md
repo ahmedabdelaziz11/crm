@@ -17,24 +17,44 @@ Employee MODULE
 Features of CRM System
 
 ADMIN MODULE
-Admin has overall control of the system. The main functions of admin are given below
+####
 
-Admin Management
+Admin has overall control of the system. The main functions of admin are given below
+####
+
+
 
 username admin
 password admin
+Admin Management
+####
 
 Employee Management
+####
+
 Plan Management 
+####
+
 View and Delete Customer and complaint 
+####
 
 CUSTOMER MODULE
+####
+
 Can register or login
+####
+
 view and Subscribe Paln
+####
+
 Make Compalit
+####
 
 Employee MODULE
+####
+
 Solve Compliant
+####
 
 Software Requirement(any one)
 XAMPP Server
